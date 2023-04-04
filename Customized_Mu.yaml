@@ -1,7 +1,6 @@
 payload:
   # 自分で追加したドメイン-Reverse order
-  - DOMAIN-KEYWORD,.gov
-  - DOMAIN-KEYWORD,.*gov.*
+ 
   - DOMAIN-SUFFIX,translate.google.com
   - DOMAIN-SUFFIX,translate.googleapis.com
   - DOMAIN-SUFFIX,*.googleapis.com
