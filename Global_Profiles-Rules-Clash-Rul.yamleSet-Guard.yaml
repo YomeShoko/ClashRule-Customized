@@ -350,7 +350,7 @@ payload:
   - DOMAIN,az668014.vo.msecnd.net
   # > Pinterest
   - DOMAIN-SUFFIX,pinimg.com
-  - DOMAIN-KEYWORD,.pinterest.
+  - DOMAIN-KEYWORD,pinterest
   # > pixiv
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,pixiv.org
