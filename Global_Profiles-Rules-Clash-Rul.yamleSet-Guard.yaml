@@ -334,7 +334,7 @@ payload:
   - DOMAIN-SUFFIX,rocksdb.org
   - DOMAIN-SUFFIX,whatsapp.com
   - DOMAIN-SUFFIX,whatsapp.net
-  - DOMAIN-KEYWORD,.facebook.
+  - DOMAIN-KEYWORD,facebook
   # > Microsoft
   - DOMAIN-SUFFIX,aka.ms
   - DOMAIN-SUFFIX,github.blog
