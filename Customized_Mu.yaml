@@ -1,6 +1,7 @@
 payload:
   # 自分で追加したドメイン-Reverse order
  
+  - DOMAIN-SUFFIX,netflix.com
   - DOMAIN-SUFFIX,excite.co.jp
   - DOMAIN-SUFFIX,ocr.space
   - DOMAIN-SUFFIX,translate.google.com
