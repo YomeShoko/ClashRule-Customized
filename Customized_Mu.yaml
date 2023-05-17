@@ -1,6 +1,8 @@
 payload:
   # 自分で追加したドメイン-Reverse order
  
+ 
+  - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,researchgate.net
   - DOMAIN-SUFFIX,bing.com
