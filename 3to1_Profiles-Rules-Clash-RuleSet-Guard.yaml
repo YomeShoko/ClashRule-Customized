@@ -1,4 +1,8 @@
 payload:
+  
+  # Customized
+  - DOMAIN-SUFFIX,sentry.io
+  
   # Advertising
   - DOMAIN-KEYWORD,adservice
 
