@@ -2,7 +2,6 @@ payload:
   # 自分で追加したドメイン-Reverse order
 
  
-　- DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,wise.com
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,wiley.com
