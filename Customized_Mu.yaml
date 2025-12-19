@@ -1,7 +1,6 @@
 payload:
   # 自分で追加したドメイン-Reverse order
 
-
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,x.com
