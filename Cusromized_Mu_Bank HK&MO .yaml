@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,aliyuncs.com
   - DOMAIN-KEYWORD,antbank-mo
   - DOMAIN-SUFFIX,antbankmacau.com
+  - DOMAIN-SUFFIX,antbank.mo
 
 # 恒生
   - DOMAIN-SUFFIX,online-metrix.net
