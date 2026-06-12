@@ -6,9 +6,9 @@ payload:
   - DOMAIN-SUFFIX,aliyuncs.com, direct
   - DOMAIN-KEYWOED,antbank-mo, direct
   - DOMAIN-SUFFIX,antbankmacau.com, direct
-  - DOMAIN-SUFFIX,online-metrix.net, direct
 
 # 恒生
+  - DOMAIN-SUFFIX,online-metrix.net, direct
   - DOMAIN,mobile.eum-appdynamics.com, direct
   - DOMAIN-SUFFIX,hsbc.com.hk, direct
   - DOMAIN-SUFFIX,hangseng.com, direct
