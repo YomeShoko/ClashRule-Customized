@@ -1,5 +1,5 @@
 payload:
-  # 自分で追加したドメイン-Reverse 
+  # 自分で追加したドメイン- BANK HK & MO 
 
 # 蚂蚁澳门
   - DOMAIN-SUFFIX,alipay.com
@@ -7,7 +7,7 @@ payload:
   - DOMAIN-KEYWORD,antbank-mo
   - DOMAIN-SUFFIX,antbankmacau.com
   - DOMAIN-SUFFIX,antbank.mo
-
+  
 # 恒生
   - DOMAIN-SUFFIX,online-metrix.net
   - DOMAIN,mobile.eum-appdynamics.com
