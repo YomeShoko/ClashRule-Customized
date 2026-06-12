@@ -1,23 +1,23 @@
 payload:
-  # 自分で追加したドメイン- BANK HK & MO 
+  # 自己添加的域名 - BANK HK & MO
 
-# 蚂蚁澳门
+  # 蚂蚁澳门 (Ant Bank Macao)
   - DOMAIN-SUFFIX,alipay.com
   - DOMAIN-SUFFIX,aliyuncs.com
   - DOMAIN-KEYWORD,antbank-mo
   - DOMAIN-SUFFIX,antbankmacau.com
   - DOMAIN-SUFFIX,antbank.mo
-  
-# 恒生
-  - DOMAIN-SUFFIX,online-metrix.net
+
+  # 恒生 / HSBC
+  - DOMAIN-SUFFIX,online-metrics.net
   - DOMAIN,mobile.eum-appdynamics.com
   - DOMAIN-SUFFIX,hsbc.com.hk
   - DOMAIN-SUFFIX,hangseng.com
-  
-# 众安
+
+  # 众安银行 (ZA Bank)
   - DOMAIN-SUFFIX,zajourney.com
   - DOMAIN-SUFFIX,zainvest.group
   - DOMAIN-SUFFIX,za.group
- 
-# 汇立
+
+  # 汇立银行 (WeLab Bank)
   - DOMAIN-SUFFIX,welab.bank
