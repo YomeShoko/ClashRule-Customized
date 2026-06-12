@@ -2,21 +2,21 @@ payload:
   # 自分で追加したドメイン-Reverse 
 
 # 蚂蚁澳门
-  - DOMAIN-SUFFIX,alipay.com, direct
-  - DOMAIN-SUFFIX,aliyuncs.com, direct
-  - DOMAIN-KEYWOED,antbank-mo, direct
-  - DOMAIN-SUFFIX,antbankmacau.com, direct
+  - DOMAIN-SUFFIX,alipay.com
+  - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-KEYWOED,antbank-mo
+  - DOMAIN-SUFFIX,antbankmacau.com
 
 # 恒生
-  - DOMAIN-SUFFIX,online-metrix.net, direct
-  - DOMAIN,mobile.eum-appdynamics.com, direct
-  - DOMAIN-SUFFIX,hsbc.com.hk, direct
-  - DOMAIN-SUFFIX,hangseng.com, direct
+  - DOMAIN-SUFFIX,online-metrix.net
+  - DOMAIN,mobile.eum-appdynamics.com
+  - DOMAIN-SUFFIX,hsbc.com.hk
+  - DOMAIN-SUFFIX,hangseng.com
   
 # 众安
-  - DOMAIN-SUFFIX,zajourney.com, direct
-  - DOMAIN-SUFFIX,zainvest.group, direct
-  - DOMAIN-SUFFIX,za.group, direct
+  - DOMAIN-SUFFIX,zajourney.com
+  - DOMAIN-SUFFIX,zainvest.group
+  - DOMAIN-SUFFIX,za.group
  
 # 汇立
-  - DOMAIN-SUFFIX,welab.bank, direct
+  - DOMAIN-SUFFIX,welab.bank
