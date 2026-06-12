@@ -8,6 +8,10 @@ payload:
   - DOMAIN-SUFFIX,antbankmacau.com
   - DOMAIN-SUFFIX,antbank.mo
 
+  # 长桥证券，蚂蚁澳门-财富
+  - DOMAIN-SUFFIX,lbctrl.com
+  - DOMAIN-SUFFIX,lbkrs.com
+
   # 恒生 / HSBC
   - DOMAIN-SUFFIX,online-metrics.net
   - DOMAIN,mobile.eum-appdynamics.com
