@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,lbctrl.com
   - DOMAIN-SUFFIX,lbkrs.com
 
-  # 恒生 / HSBC
+  # 恒生 / HSB
   - DOMAIN-SUFFIX,online-metrics.net
   - DOMAIN,mobile.eum-appdynamics.com
   - DOMAIN-SUFFIX,hsbc.com.hk
